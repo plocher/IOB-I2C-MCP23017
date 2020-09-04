@@ -1,0 +1,9 @@
+title: IOB-I2C-MCP23017
+project: IOB-I2C-MCP23017
+designer: John Plocher
+author: John Plocher
+fabricated: no
+fab_date: 
+status: released
+release: yes
+tags: [eagle, SPCoast]
