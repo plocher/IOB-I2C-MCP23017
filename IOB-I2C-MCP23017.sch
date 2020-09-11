@@ -482,20 +482,6 @@
 <wire x1="35.56" y1="-27.94" x2="35.56" y2="5.08" width="0" layer="49"/>
 <wire x1="35.56" y1="5.08" x2="-35.56" y2="5.08" width="0" layer="49"/>
 <wire x1="-19.685" y1="2.775" x2="-20.955" y2="2.775" width="0.2032" layer="21"/>
-<wire x1="-15.3" y1="-4.5" x2="-35.5" y2="-4.5" width="0.2032" layer="21"/>
-<wire x1="-35.5" y1="4.5" x2="-27.6" y2="4.5" width="0.2032" layer="21"/>
-<wire x1="-27.6" y1="4.5" x2="-23.2" y2="4.5" width="0.2032" layer="21"/>
-<wire x1="-23.2" y1="4.5" x2="-15.3" y2="4.5" width="0.2032" layer="21"/>
-<wire x1="-15.3" y1="4.5" x2="-15.3" y2="-4.4" width="0.2032" layer="21"/>
-<wire x1="-35.5" y1="-4.5" x2="-35.5" y2="4.5" width="0.2032" layer="21"/>
-<wire x1="-16.4" y1="3.4" x2="-16.4" y2="-3.4" width="0.2032" layer="51"/>
-<wire x1="-16.4" y1="-3.4" x2="-34.4" y2="-3.4" width="0.2032" layer="51"/>
-<wire x1="-34.4" y1="3.4" x2="-34.4" y2="-3.4" width="0.2032" layer="51"/>
-<wire x1="-23.2" y1="4.5" x2="-23.2" y2="3" width="0.2032" layer="21"/>
-<wire x1="-23.2" y1="3" x2="-27.6" y2="3" width="0.2032" layer="21"/>
-<wire x1="-27.6" y1="3" x2="-27.6" y2="4.5" width="0.2032" layer="21"/>
-<wire x1="-16.4" y1="3.4" x2="-23.2" y2="3.4" width="0.2032" layer="51"/>
-<wire x1="-34.4" y1="3.4" x2="-27.6" y2="3.4" width="0.2032" layer="51"/>
 <pad name="13" x="-20.32" y="1.27" drill="1.016" diameter="1.6764" shape="octagon" rot="R180"/>
 <pad name="12" x="-20.32" y="-1.27" drill="1.016" diameter="1.6764" shape="octagon" rot="R180"/>
 <pad name="14" x="-22.86" y="1.27" drill="1.016" diameter="1.6764" shape="octagon" rot="R180"/>
@@ -506,8 +492,7 @@
 <pad name="10" x="-27.94" y="-1.27" drill="1.016" diameter="1.6764" shape="octagon" rot="R180"/>
 <pad name="16" x="-30.48" y="1.27" drill="1.016" diameter="1.6764" shape="octagon" rot="R180"/>
 <pad name="9" x="-30.48" y="-1.27" drill="1.016" diameter="1.6764" shape="octagon" rot="R180"/>
-<text x="-14.986" y="2.921" size="0.4064" layer="27" font="vector" rot="R270">&gt;VALUE</text>
-<text x="-36.322" y="2.921" size="0.4064" layer="104" rot="R270">&gt;NAME</text>
+<text x="-35.306" y="4.191" size="0.4064" layer="27" font="vector" rot="R270">&gt;VALUE</text>
 <rectangle x1="-20.574" y1="1.016" x2="-20.066" y2="1.524" layer="51" rot="R270"/>
 <rectangle x1="-20.574" y1="-1.524" x2="-20.066" y2="-1.016" layer="51" rot="R270"/>
 <rectangle x1="-23.114" y1="-1.524" x2="-22.606" y2="-1.016" layer="51" rot="R270"/>
@@ -521,20 +506,6 @@
 <rectangle x1="-28.194" y1="1.016" x2="-27.686" y2="1.524" layer="51" rot="R270"/>
 <rectangle x1="-28.194" y1="-1.524" x2="-27.686" y2="-1.016" layer="51" rot="R270"/>
 <wire x1="31.115" y1="2.775" x2="29.845" y2="2.775" width="0.2032" layer="21"/>
-<wire x1="35.5" y1="-4.5" x2="15.3" y2="-4.5" width="0.2032" layer="21"/>
-<wire x1="15.3" y1="4.5" x2="23.2" y2="4.5" width="0.2032" layer="21"/>
-<wire x1="23.2" y1="4.5" x2="27.6" y2="4.5" width="0.2032" layer="21"/>
-<wire x1="27.6" y1="4.5" x2="35.5" y2="4.5" width="0.2032" layer="21"/>
-<wire x1="35.5" y1="4.5" x2="35.5" y2="-4.4" width="0.2032" layer="21"/>
-<wire x1="15.3" y1="-4.5" x2="15.3" y2="4.5" width="0.2032" layer="21"/>
-<wire x1="34.4" y1="3.4" x2="34.4" y2="-3.4" width="0.2032" layer="51"/>
-<wire x1="34.4" y1="-3.4" x2="16.4" y2="-3.4" width="0.2032" layer="51"/>
-<wire x1="16.4" y1="3.4" x2="16.4" y2="-3.4" width="0.2032" layer="51"/>
-<wire x1="27.6" y1="4.5" x2="27.6" y2="3" width="0.2032" layer="21"/>
-<wire x1="27.6" y1="3" x2="23.2" y2="3" width="0.2032" layer="21"/>
-<wire x1="23.2" y1="3" x2="23.2" y2="4.5" width="0.2032" layer="21"/>
-<wire x1="34.4" y1="3.4" x2="27.6" y2="3.4" width="0.2032" layer="51"/>
-<wire x1="16.4" y1="3.4" x2="23.2" y2="3.4" width="0.2032" layer="51"/>
 <pad name="1" x="30.48" y="1.27" drill="1.016" diameter="1.6764" shape="octagon" rot="R180"/>
 <pad name="8" x="30.48" y="-1.27" drill="1.016" diameter="1.6764" shape="octagon" rot="R180"/>
 <pad name="2" x="27.94" y="1.27" drill="1.016" diameter="1.6764" shape="octagon" rot="R180"/>
@@ -545,8 +516,7 @@
 <pad name="6" x="22.86" y="-1.27" drill="1.016" diameter="1.6764" shape="octagon" rot="R180"/>
 <pad name="4" x="20.32" y="1.27" drill="1.016" diameter="1.6764" shape="octagon" rot="R180"/>
 <pad name="5" x="20.32" y="-1.27" drill="1.016" diameter="1.6764" shape="octagon" rot="R180"/>
-<text x="35.814" y="2.921" size="0.4064" layer="27" font="vector" rot="R270">&gt;VALUE</text>
-<text x="14.478" y="2.921" size="0.4064" layer="104" rot="R270">&gt;NAME</text>
+<text x="-34.417" y="4.191" size="0.4064" layer="25" rot="R270">&gt;NAME</text>
 <rectangle x1="30.226" y1="1.016" x2="30.734" y2="1.524" layer="51" rot="R270"/>
 <rectangle x1="30.226" y1="-1.524" x2="30.734" y2="-1.016" layer="51" rot="R270"/>
 <rectangle x1="27.686" y1="-1.524" x2="28.194" y2="-1.016" layer="51" rot="R270"/>
@@ -559,6 +529,26 @@
 <rectangle x1="20.066" y1="1.016" x2="20.574" y2="1.524" layer="51" rot="R270"/>
 <rectangle x1="22.606" y1="1.016" x2="23.114" y2="1.524" layer="51" rot="R270"/>
 <rectangle x1="22.606" y1="-1.524" x2="23.114" y2="-1.016" layer="51" rot="R270"/>
+<text x="-24.13" y="3.81" size="0.8128" layer="21" rot="R180">GND</text>
+<text x="-24.765" y="-3.175" size="0.8128" layer="21" rot="R180">5V</text>
+<text x="-19.685" y="3.81" size="0.8128" layer="21" rot="R180">13</text>
+<text x="-19.685" y="-3.175" size="0.8128" layer="21" rot="R180">12</text>
+<text x="-22.225" y="3.81" size="0.8128" layer="21" rot="R180">14</text>
+<text x="-22.225" y="-3.175" size="0.8128" layer="21" rot="R180">11</text>
+<text x="-27.305" y="3.81" size="0.8128" layer="21" rot="R180">15</text>
+<text x="-29.845" y="3.81" size="0.8128" layer="21" rot="R180">16</text>
+<text x="-27.305" y="-3.175" size="0.8128" layer="21" rot="R180">10</text>
+<text x="-29.845" y="-3.175" size="0.8128" layer="21" rot="R180">9</text>
+<text x="26.67" y="-3.175" size="0.8128" layer="21" rot="R180">SCL</text>
+<text x="31.115" y="-3.175" size="0.8128" layer="21" rot="R180">8</text>
+<text x="28.575" y="-3.175" size="0.8128" layer="21" rot="R180">7</text>
+<text x="23.495" y="-3.175" size="0.8128" layer="21" rot="R180">6</text>
+<text x="20.955" y="-3.175" size="0.8128" layer="21" rot="R180">5</text>
+<text x="26.67" y="3.81" size="0.8128" layer="21" rot="R180">SDA</text>
+<text x="31.115" y="3.81" size="0.8128" layer="21" rot="R180">1</text>
+<text x="28.575" y="3.81" size="0.8128" layer="21" rot="R180">2</text>
+<text x="23.495" y="3.81" size="0.8128" layer="21" rot="R180">3</text>
+<text x="20.955" y="3.81" size="0.8128" layer="21" rot="R180">4</text>
 </package>
 <package name="0201-CAP">
 <description>Source: http://www.avxcorp.com/docs/catalogs/cx5r.pdf</description>
@@ -4845,7 +4835,7 @@ Basic schematic elements and footprints for 0603, 1206, and PTH 1/10th watt (sma
 </device>
 </devices>
 </deviceset>
-<deviceset name="I2C-EXPANDER">
+<deviceset name="CONNECTOR-I2C-EXPANDER">
 <gates>
 <gate name="G$1" symbol="I2C-EXPANDER" x="0" y="0"/>
 </gates>
@@ -5573,12 +5563,12 @@ Source: http://ww1.microchip.com/downloads/en/DeviceDoc/21952a.pdf</description>
 <part name="P+4" library="supply1" deviceset="VCC" device=""/>
 <part name="P+24" library="supply1" deviceset="VCC" device=""/>
 <part name="GND5" library="SPCoast" deviceset="GND" device=""/>
-<part name="U$5" library="SPCoast" deviceset="I2C-EXPANDER" device=""/>
+<part name="BOARD" library="SPCoast" deviceset="CONNECTOR-I2C-EXPANDER" device=""/>
 <part name="C1" library="SPCoast" deviceset="CAP*" device="0603" value="0.1uF"/>
 <part name="P+1" library="supply1" deviceset="VCC" device=""/>
 <part name="GND1" library="SPCoast" deviceset="GND" device=""/>
-<part name="LED1" library="SPCoast" deviceset="LED*" device="0805-LED"/>
-<part name="R4" library="SPCoast" deviceset="R*" device="0603-RES" value="2k2"/>
+<part name="LED1" library="SPCoast" deviceset="LED*" device="0805-LED" value="G"/>
+<part name="R4" library="SPCoast" deviceset="R*" device="0603-RES" value="4k7"/>
 <part name="P+2" library="supply1" deviceset="VCC" device=""/>
 </parts>
 <sheets>
@@ -5610,7 +5600,7 @@ Source: http://ww1.microchip.com/downloads/en/DeviceDoc/21952a.pdf</description>
 <attribute name="VALUE" x="106.68" y="144.78" size="1.778" layer="96" rot="MR0"/>
 </instance>
 <instance part="GND5" gate="1" x="109.22" y="99.06"/>
-<instance part="U$5" gate="G$1" x="180.34" y="124.46"/>
+<instance part="BOARD" gate="G$1" x="180.34" y="124.46"/>
 <instance part="C1" gate="C1" x="78.74" y="149.86"/>
 <instance part="P+1" gate="VCC" x="78.74" y="154.94" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="76.2" y="154.94" size="1.778" layer="96" rot="MR0"/>
@@ -5642,7 +5632,7 @@ Source: http://ww1.microchip.com/downloads/en/DeviceDoc/21952a.pdf</description>
 <pinref part="GND5" gate="1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="U$5" gate="G$1" pin="GND"/>
+<pinref part="BOARD" gate="G$1" pin="GND"/>
 <pinref part="GND3" gate="1" pin="GND"/>
 </segment>
 <segment>
@@ -5657,7 +5647,7 @@ Source: http://ww1.microchip.com/downloads/en/DeviceDoc/21952a.pdf</description>
 <label x="137.16" y="142.24" size="1.016" layer="95"/>
 </segment>
 <segment>
-<pinref part="U$5" gate="G$1" pin="IO1"/>
+<pinref part="BOARD" gate="G$1" pin="IO1"/>
 <wire x1="167.64" y1="134.62" x2="165.1" y2="134.62" width="0.1524" layer="91"/>
 <label x="165.1" y="134.62" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -5669,7 +5659,7 @@ Source: http://ww1.microchip.com/downloads/en/DeviceDoc/21952a.pdf</description>
 <label x="137.16" y="139.7" size="1.016" layer="95"/>
 </segment>
 <segment>
-<pinref part="U$5" gate="G$1" pin="IO2"/>
+<pinref part="BOARD" gate="G$1" pin="IO2"/>
 <wire x1="167.64" y1="132.08" x2="165.1" y2="132.08" width="0.1524" layer="91"/>
 <label x="165.1" y="132.08" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -5681,7 +5671,7 @@ Source: http://ww1.microchip.com/downloads/en/DeviceDoc/21952a.pdf</description>
 <label x="137.16" y="137.16" size="1.016" layer="95"/>
 </segment>
 <segment>
-<pinref part="U$5" gate="G$1" pin="IO3"/>
+<pinref part="BOARD" gate="G$1" pin="IO3"/>
 <wire x1="167.64" y1="129.54" x2="165.1" y2="129.54" width="0.1524" layer="91"/>
 <label x="165.1" y="129.54" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -5693,7 +5683,7 @@ Source: http://ww1.microchip.com/downloads/en/DeviceDoc/21952a.pdf</description>
 <label x="137.16" y="134.62" size="1.016" layer="95"/>
 </segment>
 <segment>
-<pinref part="U$5" gate="G$1" pin="IO4"/>
+<pinref part="BOARD" gate="G$1" pin="IO4"/>
 <wire x1="167.64" y1="127" x2="165.1" y2="127" width="0.1524" layer="91"/>
 <label x="165.1" y="127" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -5705,7 +5695,7 @@ Source: http://ww1.microchip.com/downloads/en/DeviceDoc/21952a.pdf</description>
 <label x="137.16" y="132.08" size="1.016" layer="95"/>
 </segment>
 <segment>
-<pinref part="U$5" gate="G$1" pin="IO5"/>
+<pinref part="BOARD" gate="G$1" pin="IO5"/>
 <wire x1="167.64" y1="124.46" x2="165.1" y2="124.46" width="0.1524" layer="91"/>
 <label x="165.1" y="124.46" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -5717,7 +5707,7 @@ Source: http://ww1.microchip.com/downloads/en/DeviceDoc/21952a.pdf</description>
 <label x="137.16" y="129.54" size="1.016" layer="95"/>
 </segment>
 <segment>
-<pinref part="U$5" gate="G$1" pin="IO6"/>
+<pinref part="BOARD" gate="G$1" pin="IO6"/>
 <wire x1="167.64" y1="121.92" x2="165.1" y2="121.92" width="0.1524" layer="91"/>
 <label x="165.1" y="121.92" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -5729,7 +5719,7 @@ Source: http://ww1.microchip.com/downloads/en/DeviceDoc/21952a.pdf</description>
 <label x="137.16" y="127" size="1.016" layer="95"/>
 </segment>
 <segment>
-<pinref part="U$5" gate="G$1" pin="IO7"/>
+<pinref part="BOARD" gate="G$1" pin="IO7"/>
 <wire x1="167.64" y1="119.38" x2="165.1" y2="119.38" width="0.1524" layer="91"/>
 <label x="165.1" y="119.38" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -5741,7 +5731,7 @@ Source: http://ww1.microchip.com/downloads/en/DeviceDoc/21952a.pdf</description>
 <label x="137.16" y="124.46" size="1.016" layer="95"/>
 </segment>
 <segment>
-<pinref part="U$5" gate="G$1" pin="IO8"/>
+<pinref part="BOARD" gate="G$1" pin="IO8"/>
 <wire x1="167.64" y1="116.84" x2="165.1" y2="116.84" width="0.1524" layer="91"/>
 <label x="165.1" y="116.84" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -5753,7 +5743,7 @@ Source: http://ww1.microchip.com/downloads/en/DeviceDoc/21952a.pdf</description>
 <label x="137.16" y="109.22" size="1.016" layer="95"/>
 </segment>
 <segment>
-<pinref part="U$5" gate="G$1" pin="IO13"/>
+<pinref part="BOARD" gate="G$1" pin="IO13"/>
 <wire x1="193.04" y1="124.46" x2="195.58" y2="124.46" width="0.1524" layer="91"/>
 <label x="195.58" y="124.46" size="1.016" layer="95" xref="yes"/>
 </segment>
@@ -5765,7 +5755,7 @@ Source: http://ww1.microchip.com/downloads/en/DeviceDoc/21952a.pdf</description>
 <label x="137.16" y="106.68" size="1.016" layer="95"/>
 </segment>
 <segment>
-<pinref part="U$5" gate="G$1" pin="IO14"/>
+<pinref part="BOARD" gate="G$1" pin="IO14"/>
 <wire x1="193.04" y1="121.92" x2="195.58" y2="121.92" width="0.1524" layer="91"/>
 <label x="195.58" y="121.92" size="1.016" layer="95" xref="yes"/>
 </segment>
@@ -5777,7 +5767,7 @@ Source: http://ww1.microchip.com/downloads/en/DeviceDoc/21952a.pdf</description>
 <label x="137.16" y="104.14" size="1.016" layer="95"/>
 </segment>
 <segment>
-<pinref part="U$5" gate="G$1" pin="IO15"/>
+<pinref part="BOARD" gate="G$1" pin="IO15"/>
 <wire x1="193.04" y1="119.38" x2="195.58" y2="119.38" width="0.1524" layer="91"/>
 <label x="195.58" y="119.38" size="1.016" layer="95" xref="yes"/>
 </segment>
@@ -5789,7 +5779,7 @@ Source: http://ww1.microchip.com/downloads/en/DeviceDoc/21952a.pdf</description>
 <label x="137.16" y="101.6" size="1.016" layer="95"/>
 </segment>
 <segment>
-<pinref part="U$5" gate="G$1" pin="IO16"/>
+<pinref part="BOARD" gate="G$1" pin="IO16"/>
 <wire x1="193.04" y1="116.84" x2="195.58" y2="116.84" width="0.1524" layer="91"/>
 <label x="195.58" y="116.84" size="1.016" layer="95" xref="yes"/>
 </segment>
@@ -5813,7 +5803,7 @@ Source: http://ww1.microchip.com/downloads/en/DeviceDoc/21952a.pdf</description>
 <junction x="109.22" y="142.24"/>
 </segment>
 <segment>
-<pinref part="U$5" gate="G$1" pin="VCC"/>
+<pinref part="BOARD" gate="G$1" pin="VCC"/>
 <pinref part="P+4" gate="VCC" pin="VCC"/>
 </segment>
 <segment>
@@ -5832,7 +5822,7 @@ Source: http://ww1.microchip.com/downloads/en/DeviceDoc/21952a.pdf</description>
 <label x="104.14" y="116.84" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="U$5" gate="G$1" pin="SDA"/>
+<pinref part="BOARD" gate="G$1" pin="SDA"/>
 <wire x1="193.04" y1="114.3" x2="198.12" y2="114.3" width="0.1524" layer="91"/>
 <label x="198.12" y="114.3" size="1.016" layer="95" xref="yes"/>
 </segment>
@@ -5844,7 +5834,7 @@ Source: http://ww1.microchip.com/downloads/en/DeviceDoc/21952a.pdf</description>
 <label x="104.14" y="119.38" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="U$5" gate="G$1" pin="SCL"/>
+<pinref part="BOARD" gate="G$1" pin="SCL"/>
 <wire x1="193.04" y1="111.76" x2="198.12" y2="111.76" width="0.1524" layer="91"/>
 <label x="198.12" y="111.76" size="1.016" layer="95" xref="yes"/>
 </segment>
@@ -5891,7 +5881,7 @@ Source: http://ww1.microchip.com/downloads/en/DeviceDoc/21952a.pdf</description>
 <label x="137.16" y="119.38" size="1.016" layer="95"/>
 </segment>
 <segment>
-<pinref part="U$5" gate="G$1" pin="IO9"/>
+<pinref part="BOARD" gate="G$1" pin="IO9"/>
 <wire x1="193.04" y1="134.62" x2="195.58" y2="134.62" width="0.1524" layer="91"/>
 <label x="195.58" y="134.62" size="1.016" layer="95" xref="yes"/>
 </segment>
@@ -5903,7 +5893,7 @@ Source: http://ww1.microchip.com/downloads/en/DeviceDoc/21952a.pdf</description>
 <label x="137.16" y="116.84" size="1.016" layer="95"/>
 </segment>
 <segment>
-<pinref part="U$5" gate="G$1" pin="IO10"/>
+<pinref part="BOARD" gate="G$1" pin="IO10"/>
 <wire x1="193.04" y1="132.08" x2="195.58" y2="132.08" width="0.1524" layer="91"/>
 <label x="195.58" y="132.08" size="1.016" layer="95" xref="yes"/>
 </segment>
@@ -5915,7 +5905,7 @@ Source: http://ww1.microchip.com/downloads/en/DeviceDoc/21952a.pdf</description>
 <label x="137.16" y="114.3" size="1.016" layer="95"/>
 </segment>
 <segment>
-<pinref part="U$5" gate="G$1" pin="IO11"/>
+<pinref part="BOARD" gate="G$1" pin="IO11"/>
 <wire x1="193.04" y1="129.54" x2="195.58" y2="129.54" width="0.1524" layer="91"/>
 <label x="195.58" y="129.54" size="1.016" layer="95" xref="yes"/>
 </segment>
@@ -5927,7 +5917,7 @@ Source: http://ww1.microchip.com/downloads/en/DeviceDoc/21952a.pdf</description>
 <label x="137.16" y="111.76" size="1.016" layer="95"/>
 </segment>
 <segment>
-<pinref part="U$5" gate="G$1" pin="IO12"/>
+<pinref part="BOARD" gate="G$1" pin="IO12"/>
 <wire x1="193.04" y1="127" x2="195.58" y2="127" width="0.1524" layer="91"/>
 <label x="195.58" y="127" size="1.016" layer="95" xref="yes"/>
 </segment>
