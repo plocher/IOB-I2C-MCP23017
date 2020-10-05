@@ -959,9 +959,9 @@ design rules under a new name.
 <element name="SW1X13" library="SPCoast" package="EDG-04" value="" x="72.39" y="80.01" smashed="yes" rot="R180">
 <attribute name="VALUE" x="78.232" y="86.614" size="0.8128" layer="27" ratio="10" rot="R180"/>
 </element>
-<element name="U$5X1" library="SPCoast" package="BOARD-TEMPLATE-IOB-I2C-3X1-ARRAY" value="" x="0" y="0"/>
-<element name="FID_UL" library="SPCoast" package="FIDUCIAL_1MM" value="" x="5.08" y="91.44"/>
-<element name="FID_LR" library="SPCoast" package="FIDUCIAL_1MM" value="" x="93.98" y="8.89"/>
+<element name="U$5X1" library="SPCoast" package="BOARD-TEMPLATE-IOB-I2C-3X1-ARRAY" value="10x10" x="0" y="0"/>
+<element name="FID_UL" library="SPCoast" package="FIDUCIAL_1MM" value="FIDUCIAL" x="5.08" y="91.44"/>
+<element name="FID_LR" library="SPCoast" package="FIDUCIAL_1MM" value="FIDUCIAL" x="93.98" y="8.89"/>
 </elements>
 <signals>
 <signal name="A0X11">
