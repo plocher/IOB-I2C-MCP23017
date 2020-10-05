@@ -5554,7 +5554,7 @@ Source: http://ww1.microchip.com/downloads/en/DeviceDoc/21952a.pdf</description>
 <part name="OSHW1" library="SPCoast" deviceset="DOC-OSHW-LOGO-" device="M"/>
 <part name="IC1" library="microchip" deviceset="MCP23017" device="SO"/>
 <part name="GND3" library="SPCoast" deviceset="GND" device=""/>
-<part name="SW1" library="SPCoast" deviceset="SW_DIP-4" device=""/>
+<part name="SW1" library="SPCoast" deviceset="SW_DIP-4" device="" value="SPSTx4"/>
 <part name="R1" library="SPCoast" deviceset="R*" device="0603-RES" value="10K"/>
 <part name="R2" library="SPCoast" deviceset="R*" device="0603-RES" value="10K"/>
 <part name="R3" library="SPCoast" deviceset="R*" device="0603-RES" value="10K"/>

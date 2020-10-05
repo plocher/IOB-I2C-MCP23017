@@ -904,7 +904,7 @@ design rules under a new name.
 <element name="R4X11" library="SPCoast" package="0603-RES" value="4k7" x="44.196" y="27.94" smashed="yes" rot="R180">
 <attribute name="VALUE" x="45.466" y="29.845" size="0.8128" layer="27" font="vector" rot="R180"/>
 </element>
-<element name="SW1X11" library="SPCoast" package="EDG-04" value="" x="72.39" y="13.97" smashed="yes" rot="R180">
+<element name="SW1X11" library="SPCoast" package="EDG-04" value="SPSTx4" x="72.39" y="13.97" smashed="yes" rot="R180">
 <attribute name="VALUE" x="78.232" y="20.574" size="0.8128" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="BOARDX12" library="SPCoast" package="I2C-EXPANDER" value="CONNECTOR-I2C-EXPANDER" x="48.26" y="60.96" smashed="yes">
@@ -930,7 +930,7 @@ design rules under a new name.
 <element name="R4X12" library="SPCoast" package="0603-RES" value="4k7" x="44.196" y="60.96" smashed="yes" rot="R180">
 <attribute name="VALUE" x="45.466" y="62.865" size="0.8128" layer="27" font="vector" rot="R180"/>
 </element>
-<element name="SW1X12" library="SPCoast" package="EDG-04" value="" x="72.39" y="46.99" smashed="yes" rot="R180">
+<element name="SW1X12" library="SPCoast" package="EDG-04" value="SPSTx4" x="72.39" y="46.99" smashed="yes" rot="R180">
 <attribute name="VALUE" x="78.232" y="53.594" size="0.8128" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="BOARDX13" library="SPCoast" package="I2C-EXPANDER" value="CONNECTOR-I2C-EXPANDER" x="48.26" y="93.98" smashed="yes">
@@ -956,7 +956,7 @@ design rules under a new name.
 <element name="R4X13" library="SPCoast" package="0603-RES" value="4k7" x="44.196" y="93.98" smashed="yes" rot="R180">
 <attribute name="VALUE" x="45.466" y="95.885" size="0.8128" layer="27" font="vector" rot="R180"/>
 </element>
-<element name="SW1X13" library="SPCoast" package="EDG-04" value="" x="72.39" y="80.01" smashed="yes" rot="R180">
+<element name="SW1X13" library="SPCoast" package="EDG-04" value="SPSTx4" x="72.39" y="80.01" smashed="yes" rot="R180">
 <attribute name="VALUE" x="78.232" y="86.614" size="0.8128" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="U$5X1" library="SPCoast" package="BOARD-TEMPLATE-IOB-I2C-3X1-ARRAY" value="10x10" x="0" y="0"/>
