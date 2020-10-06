@@ -278,23 +278,23 @@
 <text x="-2.032" y="-0.508" size="0.8128" layer="21" ratio="15">&gt;Value</text>
 </package>
 <package name="0603-RES">
-<wire x1="-1.473" y1="0.6528" x2="1.473" y2="0.6528" width="0.0508" layer="39"/>
-<wire x1="1.473" y1="0.6528" x2="1.473" y2="-0.6528" width="0.0508" layer="39"/>
-<wire x1="1.473" y1="-0.6528" x2="-1.473" y2="-0.6528" width="0.0508" layer="39"/>
-<wire x1="-1.473" y1="-0.6528" x2="-1.473" y2="0.6528" width="0.0508" layer="39"/>
+<wire x1="-1.473" y1="0.508" x2="1.473" y2="0.508" width="0.0508" layer="39"/>
+<wire x1="1.473" y1="0.508" x2="1.473" y2="-0.508" width="0.0508" layer="39"/>
+<wire x1="1.473" y1="-0.508" x2="-1.473" y2="-0.508" width="0.0508" layer="39"/>
+<wire x1="-1.473" y1="-0.508" x2="-1.473" y2="0.508" width="0.0508" layer="39"/>
 <wire x1="-0.356" y1="0.432" x2="0.356" y2="0.432" width="0.1016" layer="49"/>
 <wire x1="-0.356" y1="-0.419" x2="0.356" y2="-0.419" width="0.1016" layer="49"/>
-<smd name="1" x="-0.85" y="0" dx="1.1" dy="1" layer="1"/>
-<smd name="2" x="0.85" y="0" dx="1.1" dy="1" layer="1"/>
+<smd name="1" x="-0.889" y="0" dx="0.8128" dy="0.8128" layer="1"/>
+<smd name="2" x="0.889" y="0" dx="0.8128" dy="0.8128" layer="1"/>
 <text x="-1.27" y="1.27" size="0.8128" layer="25" font="vector">&gt;NAME</text>
 <text x="-1.27" y="-1.905" size="0.8128" layer="27" font="vector">&gt;VALUE</text>
 <rectangle x1="-0.8382" y1="-0.4699" x2="-0.3381" y2="0.4801" layer="49"/>
 <rectangle x1="0.3302" y1="-0.4699" x2="0.8303" y2="0.4801" layer="49"/>
 <rectangle x1="-0.1999" y1="-0.3" x2="0.1999" y2="0.3" layer="35"/>
-<wire x1="1.524" y1="0.635" x2="-1.524" y2="0.635" width="0.127" layer="21"/>
-<wire x1="-1.524" y1="0.635" x2="-1.524" y2="-0.635" width="0.127" layer="21"/>
-<wire x1="-1.524" y1="-0.635" x2="1.524" y2="-0.635" width="0.127" layer="21"/>
-<wire x1="1.524" y1="-0.635" x2="1.524" y2="0.635" width="0.127" layer="21"/>
+<wire x1="1.4478" y1="0.508" x2="-1.4478" y2="0.508" width="0.127" layer="21"/>
+<wire x1="-1.4478" y1="0.508" x2="-1.4478" y2="-0.508" width="0.127" layer="21"/>
+<wire x1="-1.4478" y1="-0.508" x2="1.4478" y2="-0.508" width="0.127" layer="21"/>
+<wire x1="1.4478" y1="-0.508" x2="1.4478" y2="0.508" width="0.127" layer="21"/>
 <wire x1="-0.1143" y1="0" x2="0.1143" y2="0.002540625" width="0.254" layer="21"/>
 </package>
 <package name="1/6W-RES">
@@ -5551,7 +5551,7 @@ Source: http://ww1.microchip.com/downloads/en/DeviceDoc/21952a.pdf</description>
 </classes>
 <parts>
 <part name="FRAME1" library="SPCoast" deviceset="DOC-FRAME-LETTER" device=""/>
-<part name="OSHW1" library="SPCoast" deviceset="DOC-OSHW-LOGO-" device="M"/>
+<part name="OSHW1" library="SPCoast" deviceset="DOC-OSHW-LOGO-" device="M" value="OSHW"/>
 <part name="IC1" library="microchip" deviceset="MCP23017" device="SO"/>
 <part name="GND3" library="SPCoast" deviceset="GND" device=""/>
 <part name="SW1" library="SPCoast" deviceset="SW_DIP-4" device="" value="SPSTx4"/>
@@ -5567,7 +5567,7 @@ Source: http://ww1.microchip.com/downloads/en/DeviceDoc/21952a.pdf</description>
 <part name="C1" library="SPCoast" deviceset="CAP*" device="0603" value="0.1uF"/>
 <part name="P+1" library="supply1" deviceset="VCC" device=""/>
 <part name="GND1" library="SPCoast" deviceset="GND" device=""/>
-<part name="LED1" library="SPCoast" deviceset="LED*" device="0805-LED" value="G"/>
+<part name="LED1" library="SPCoast" deviceset="LED*" device="0603-LED" value="G"/>
 <part name="R4" library="SPCoast" deviceset="R*" device="0603-RES" value="4k7"/>
 <part name="P+2" library="supply1" deviceset="VCC" device=""/>
 </parts>
